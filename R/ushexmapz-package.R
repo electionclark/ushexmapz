@@ -1,5 +1,6 @@
 #' @keywords internal
-"Easy state hexbin maps in R."
+"_PACKAGE"
+
 
 ## usethis namespace: start
 ## usethis namespace: end
