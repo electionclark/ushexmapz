@@ -10,7 +10,6 @@
 #'   \item{hole}{Denotes if there is a hole. One value}
 #'   \item{piece}{Number of pieces point belongs to.}
 #'   \item{id}{State Name}
-#'   \item{Pieces}{dbl denoting monthly price of pieces of shrimp totalling a pound}
 #' }
 #' @source \url{https://github.com/holtzy/D3-graph-gallery/blob/master/DATA/us_states_hexgrid.geojson.json}
-"shrimp"
+"us_hexmap"
