@@ -2,7 +2,7 @@ Package: ushexmapz
 Title: Easy Plotting for State Hexbin Maps 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Jesse", "Clark",  "allagashanalytics@gmail.com", role = c("aut", "cre"))
+    person("Jesse", "T.","Clark, PhD",  "allagashanalytics@gmail.com", role = c("aut", "cre"))
 Description: This package is an easy way to plot tidy hexmaps without the need to directly handle geojsons, shapefiles, or other forms of geographic data. This allows users to spend more time making their maps look good and less time on loading geographic data into R. 
 License: `use_mit_license()`
 Encoding: UTF-8
